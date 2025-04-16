@@ -33,3 +33,32 @@ p{
     border: none;
     color:darkred
 }
+
+#kotaksatu {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    display: inline-block;
+}
+
+#kotakdua {
+    width: 50px;
+    height: 50px;
+    background-color:yellow;
+    display: inline-block;
+}
+
+#lingkaran {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: gold;
+    display:block;
+}
+
+#Persegipanjang {
+    width: 100px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    display: block;
+}
